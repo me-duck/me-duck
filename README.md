@@ -3,7 +3,7 @@
 ###
 ```python
 # Information about the developer
-name = "Sarvar"
+name = "Ali"
 occupation = "Flutter & Django dev"
 country = "Uzbekistan"
 
@@ -11,12 +11,7 @@ country = "Uzbekistan"
 print(f"My name is {name} and I'm a {occupation}, from {country}.")
 
 ```
-###
-<h2 align="left">About me</h2>
 
-###
-
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Flutter and ML<br>🎓 I've graduated from SCHU | CSE</p>
 
 ###
 
