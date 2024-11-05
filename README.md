@@ -3,7 +3,7 @@
 ###
 ```python
 # Information about the developer
-name = "Ali"
+name = "JS"
 occupation = "Flutter & Django dev"
 country = "Uzbekistan"
 
