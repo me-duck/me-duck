@@ -1,5 +1,3 @@
-![Header](./header.png)
-
 ###
 ```python
 # Information about the developer
